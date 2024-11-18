@@ -248,12 +248,12 @@ import AppCheckboxCastom from "./AppCheckboxCastom.vue";
     margin: 0;
     list-style: none;
     width: 452px;
-    height: 244px;
+    // height: 244px;
     padding-left: 24px;
     background-color: white;
     border-radius: 16px;
     margin-bottom: 24px;
-
+    padding-bottom: 32px;
   }
 
   &__header {
@@ -386,7 +386,7 @@ import AppCheckboxCastom from "./AppCheckboxCastom.vue";
         }
 
         &__item {
-            height: 252px;
+            // height: 252px;
             margin-bottom: 24px;
             position: relative;
         }
