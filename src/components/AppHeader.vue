@@ -96,7 +96,7 @@ import AppMain from './AppMain.vue';
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 730px) {
 .header {
 width: 375px;
 

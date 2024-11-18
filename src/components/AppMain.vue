@@ -343,7 +343,7 @@ import AppCheckboxCastom from "./AppCheckboxCastom.vue";
     padding-bottom: 200px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 730px) {
     .main {
         width: 375px;
         height: 1420px;
