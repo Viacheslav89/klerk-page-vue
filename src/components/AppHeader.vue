@@ -95,4 +95,19 @@ import AppMain from './AppMain.vue';
 
 }
 
+
+@media screen and (max-width: 1200px) {
+.header {
+width: 375px;
+
+    &__title {
+        font-size: 32px;
+    }
+
+    &__servise--selected {
+        padding-bottom: 10px;
+    }
+}
+}
+
 </style>
