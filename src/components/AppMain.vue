@@ -282,8 +282,9 @@ import AppCheckboxCastom from "./AppCheckboxCastom.vue";
     margin: 0;
     color: #666666;
     margin-top: 8px;
-    font-size: 14px;
+    font-size: 13px;
     margin-top: 16px;
+
   }
 
   &__description--list {
